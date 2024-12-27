@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily:{
-        tangerine:['Tangerine', 'sans-serif']
+        bodoni:['Bodoni Moda', 'sans-serif']
       },
       backgroundImage:{
         'fondo-save' : "url('https://res.cloudinary.com/dfschbyq2/image/upload/v1735229051/_MG_2670-1_syiydx.jpg')",
